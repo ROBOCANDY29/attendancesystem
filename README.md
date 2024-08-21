@@ -26,4 +26,4 @@ The **Facial Recognition Attendance System** is a software application designed 
 
 This project demonstrates how these technologies can come together to create a reliable and automated attendance solution.
 
-NOTE:Save all to a folder called project in your C drive for smooth running. Required modules are: tkinter,numpy,pillow and opencv-contrib-python
+NOTE:  Save all to a folder called project in your C drive for smooth running. Required modules are: tkinter,numpy,pillow and opencv-contrib-python
